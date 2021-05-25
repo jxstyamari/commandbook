@@ -12,6 +12,7 @@
 - [ ] View my social media
 - [ ] Fast sending messages by clicking in book and fast using commands
 - [ ] again some usefull things for everyones
+- [ ] German and english version
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
