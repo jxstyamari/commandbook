@@ -6,14 +6,14 @@
 
  ![todocommandbook2](https://user-images.githubusercontent.com/84765891/119454988-75ad2880-bd39-11eb-9a25-45663f886c16.png)
 - [x] Just start up (overview & tutorial)
-- [ ] main menu for all categorys
-- [ ] Admin Commands (with Switchsite): One click to switch gamemode, to kill your self (and maybe others), get item kits, ban & kick users, enchant & summon, some more admin commands,
+- [x] main menu for all categorys
+- [ ] Admin Commands (with Switchsite): One click to switch gamemode, to kill your self (and maybe others), get item kits, ban & kick users, enchant & summon, some more admin commands, (**In Work**)
 - [x] ~~Copy Username~~ (No Possibility because of you only use strings in books)
 - [ ] Some funny things to do in this book
 - [ ] Fast Open Websites by clicking on buttons
 - [ ] View my social media
 - [ ] Fast sending messages by clicking in book and fast using commands
-- [ ] again some usefull things for everyones
+- [ ] again some usefull things for everyone
 - [ ] German and english version
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
